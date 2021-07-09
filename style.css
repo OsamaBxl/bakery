@@ -106,7 +106,7 @@ header{
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    z-index: 12;
+    z-index: 200;
     color: #fff;
 }
 .navScroll{
