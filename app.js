@@ -15,7 +15,7 @@ burger.addEventListener('click', function () {
     burger.style.display = 'none';
 });
 xMenu.addEventListener('click', function () {
-    menuBody.style.marginTop = '-40rem';
+    menuBody.style.marginTop = '-42rem';
     xMenu.style.display = 'none';
     burger.style.display = 'block';
 });
